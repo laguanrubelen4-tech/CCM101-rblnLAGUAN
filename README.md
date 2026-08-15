@@ -19,8 +19,7 @@
 Hello! My name is **LAGUAN, RUBELEN A.**, I am **21 years old** and
 I am from **Laoac, Pangasinan**.
 
-I am currently learning about **Cloud Computing, Linux, system
-administration, Git, and GitHub**. This laboratory portfolio allows me
+I am currently learning about **Cloud Computing, Git, and GitHub**. This laboratory portfolio allows me
 to practice what I learn through hands-on activities and exercises.
 
 ---
@@ -39,7 +38,6 @@ laboratory exercises.
 | 📁 Section | 📝 Contents |
 |---|---|
 | ☁️ Cloud Computing | Cloud-related laboratory activities |
-| 🐧 Linux | Linux commands and system administration |
 | 💻 Terminal | Command-line exercises |
 | 📂 File Management | Directories and file operations |
 | 📝 Documentation | Markdown laboratory reports |
