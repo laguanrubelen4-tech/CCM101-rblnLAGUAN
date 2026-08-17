@@ -1,7 +1,7 @@
 
 
 
-## System Information
+## INFRASTRACTURE REPORT
 
 | Information | Result |
 |---|---|
