@@ -21,6 +21,7 @@
 
 **Typical Enterprise Use Cases:** Website hosting, data storage, database management, backup, disaster recovery, and application development.
 
+<img width="1907" height="877" alt="image" src="https://github.com/user-attachments/assets/e886e892-4aac-4675-92ad-68cf11d72e56" />
 
 
 ---
