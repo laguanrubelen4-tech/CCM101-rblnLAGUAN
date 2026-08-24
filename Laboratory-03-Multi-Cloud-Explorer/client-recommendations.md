@@ -18,3 +18,14 @@ GCP is recommended because it provides strong Artificial Intelligence, Machine L
 
 Recommended Platform: AWS
 AWS is recommended because its global infrastructure can support customers from different parts of the world. Its scalable services can automatically handle changes in website traffic and demand. Services include Amazon EC2, Amazon Auto Scaling, and Amazon CloudFront.
+
+**CHECKPOINT6**
+
+| Business Requirement        | Recommended Platform | Justification                                                                            |
+| --------------------------- | -------------------- | ---------------------------------------------------------------------------------------- |
+| **Startup Company**         | AWS                  | Offers scalable services and flexible pricing suitable for growing startups.             |
+| **Enterprise Organization** | AWS                  | Provides a broad range of services for complex enterprise requirements.                  |
+| **Microsoft Environment**   | Azure                | Integrates strongly with Windows Server, Microsoft 365, and Active Directory.            |
+| **AI / Machine Learning**   | GCP                  | Provides strong AI, machine learning, and data analytics capabilities.                   |
+| **Kubernetes Deployment**   | GCP                  | Google Kubernetes Engine (GKE) provides strong managed Kubernetes capabilities.          |
+| **Global Web Application**  | AWS                  | Provides global infrastructure, scalability, and high availability for web applications. |
