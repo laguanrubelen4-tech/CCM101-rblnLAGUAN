@@ -24,7 +24,7 @@ Google Cloud is especially strong in AI and Kubernetes. Its AI tools and Google 
 I would choose Google Cloud because of its strong AI and data analytics capabilities. It is also useful for developing modern applications using Kubernetes.
 <img width="1917" height="815" alt="Screenshot 2026-08-24 161114" src="https://github.com/user-attachments/assets/23ab711b-27fe-4252-9682-f8ecd85726ef" />
 
-**checkpoint6**
+**Checkpoint5**
 
 
 | Service Category        | AWS        | Microsoft Azure                | Google Cloud Platform (GCP)    |
