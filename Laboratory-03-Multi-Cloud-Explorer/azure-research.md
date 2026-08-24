@@ -19,7 +19,9 @@ Azure Virtual Network – Cloud networking
 **Three Advantages:**
 
 Strong enterprise support
+
 Global infrastructure
+
 Hybrid-cloud capabilities
 
 **Typical Enterprise Use Cases**: Application hosting, cloud migration, database management, backup, AI, and hybrid cloud.
