@@ -1,4 +1,4 @@
-# 1. Amazon Web Services (AWS)
+#  Amazon Web Services (AWS)
 
 **Brief Overview:** AWS is a cloud platform from Amazon that provides computing, storage, databases, networking, and other cloud services.
 
