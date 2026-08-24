@@ -1,8 +1,8 @@
 **Google Cloud Platform (GCP)**
 
-******Brief Overview:** Google Cloud is Google's cloud platform that provides computing, storage, databases, networking, AI, and data analytics services.
+**Brief Overview:** Google Cloud is Google's cloud platform that provides computing, storage, databases, networking, AI, and data analytics services.
 
-******Global Infrastructure:** GCP uses worldwide regions and zones to provide reliable and high-performance cloud services.
+**Global Infrastructure:** GCP uses worldwide regions and zones to provide reliable and high-performance cloud services.
 
 **Cloud Management Console**: Google Cloud Console allows users to manage projects, services, resources, permissions, and billing.
 
