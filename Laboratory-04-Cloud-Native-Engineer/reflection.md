@@ -1,1 +1,8 @@
+**REFLECTION**
 
+  This laboratory activity demonstrated how Docker containers streamline application deployment compared to traditional Virtual Machines (VMs). While a VM requires installing a complete, resource-heavy guest operating system that takes minutes to boot, a Docker container spins up in seconds. It achieves this efficiency by sharing the host system's kernel and packaging only the application and its dependencies, creating a lightweight, highly efficient environment.
+  A key technical takeaway was mastering port mapping through the -p 8080:80 flag. Because the internal Nginx web server natively listens on port 80, mapping it to port 8080 on the host machine bridges the network gap. This allows external access via http://localhost:8080, preventing the containerized application from remaining isolated.
+    I also analyzed the container lifecycle and data persistence. Executing docker rm permanently removes a stopped container and wipes any data in its writable layer. This underscored the critical importance of using Docker volumes for external storage to ensure data survives container destruction.
+  From an organizational perspective, containerization bridges the gap between software development and IT operations. Standardizing the environment ensures applications run identically across development, testing, and production, which directly supports DevOps principles by eliminating environmental drift.
+ 
+  Therefore, this activity enhances my evolving GitHub portfolio. Adding cloud-native skills highlights my progress with modern architecture and showcases practical, industry-ready capabilities.
