@@ -91,4 +91,4 @@ Through this laboratory activity, I developed practical skills in Docker and clo
 
 ## Challenges Encountered
 
-One of the challenges I encountered was becoming familiar with Docker commands and understanding how containers operate compared to Virtual Machines. I also needed to understand the purpose of port mapping when accessing the Nginx web server through `localhost:8080`. Another challenge was carefully checking the container status before stopping and removing it. Following the commands step by step and observing the terminal output helped me understand the Docker workflow and complete the deployment successfully.
+One of the challenges I encountered was becoming familiar with Docker commands and understanding how containers operate compared to Virtual Machines. I also needed to understand the purpose of port mapping when accessing the Nginx web server through `localhost:8080`. Another challenge was carefully checking the container status before stopping and removing it. Following the commands step by step and observing the terminal output helped me understand the Docker workflow and complete the mission deployment.
