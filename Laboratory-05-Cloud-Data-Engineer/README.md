@@ -26,7 +26,7 @@ The activity demonstrated how object storage can be used to store unstructured d
 * GitHub
 * Git
 * Web Browser
-* Markdown
+
 
 ## Skills Learned
 
