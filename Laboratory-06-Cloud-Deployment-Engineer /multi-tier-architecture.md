@@ -29,37 +29,5 @@ The MariaDB database works together with the Nextcloud application to provide th
 
 It is better to place the web application and database in separate containers because each container has a specific responsibility. This makes the system easier to manage, troubleshoot, and maintain.
 
-Separating them also allows the application and database to be managed independently instead of putting everything inside one container.
 
-## Two-Tier Architecture
 
-The architecture used in this laboratory can be represented as:
-
-```text
-             User
-               |
-               | HTTP Request
-               v
-      +-------------------+
-      |     Nextcloud     |
-      | Web/Application   |
-      |       Tier        |
-      +-------------------+
-               |
-               | Database Connection
-               v
-      +-------------------+
-      |      MariaDB      |
-      |    Database Tier  |
-      +-------------------+
-```
-
-The Nextcloud application communicates with MariaDB using the Docker Compose network.
-
-The database connection is configured using:
-
-```text
-MYSQL_HOST=database
-```
-
-The `database` value refers to the MariaDB service name in the Docker Compose file.
