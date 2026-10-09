@@ -1,10 +1,7 @@
 
 # Laboratory Activity 7: The Cloud Operations Engineer
 
-**Course:** CCM101 – Cloud Computing  
-**College:** College of Information Technology  
-**Mission:** The Cloud Operations Engineer  
-**Environment:** KillerCoda Ubuntu Playground and Docker
+
 
 ## Mission Overview
 
